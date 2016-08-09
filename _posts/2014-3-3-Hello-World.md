@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Testing jekyll and github.io pages
+title: Backlog and previous posts
 ---
 
-Just testing stuffs
+My previous posts can be retrieved on the following blogs:
 
-
-This shouldn't be displayed
+- [moonloop.org](http://moonloop.org)
+- [milkmix.blogpost.ch](http://milkmix.blogspot.ch)
+- [SCRT blog](http://blog.scrt.ch)
+- [cybersmashup](http://cybersmashup.com)
